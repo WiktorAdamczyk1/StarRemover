@@ -18,7 +18,7 @@ The following example showcases an image after being processed twice:
 
 1. Download the [exe](https://mega.nz/file/nnYRnYKC#Xgh6CyHDhxYpVuYOu00lnAC_ysFmtciqzhZywVYbEu4) (made with [Pyinstaller](https://pyinstaller.org/en/stable/)).
 2. Download the [weights](https://mega.nz/file/T2IwASgK#C-25pOzrVrCxmlsnUaLp2vok52EFZ3MnuOcreIk9BgQ).
-3. Put both file into the same folder.
+3. Put both files into the same folder.
 
 ## Usage
 
