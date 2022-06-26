@@ -32,6 +32,7 @@ The following example showcases an image after being processed twice:
 * Loading images in many common file formats.
 * Star detection on images of any size.
 * Reduction and removal of stars.
+* Customizable processing parameters.
 
 ## Summary
 
